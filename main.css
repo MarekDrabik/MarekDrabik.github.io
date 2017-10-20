@@ -10,5 +10,5 @@ h1 {
   padding: 14px;
 }
 
-.text {color: #706B6B; text-align:left; float:left}
+.text {color: #706B6B; text-align:left; float:left; width:200px}
 .gif {text-align:left}
