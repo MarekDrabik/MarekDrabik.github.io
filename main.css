@@ -7,3 +7,6 @@ p{
   color: white;
   padding: 10px;
 }
+
+.text {background:#666; text-align:left; float:left}
+.gif {text-align:center}
