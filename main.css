@@ -17,6 +17,11 @@ h1 {
   justify-content: space-around;
 }
 
+.videoSLabel{
+  display: flex;
+  flex-direction: column;
+}
+
 .text {color: #706B6B; text-align:left}
 .gif {text-align:left}
 .kresba {float:left; width: 340px}
