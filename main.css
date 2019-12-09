@@ -10,6 +10,12 @@ h1 {
   padding: 14px;
 }
 
+.videaflex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 .text {color: #706B6B; text-align:left}
 .gif {text-align:left}
 .kresba {float:left; width: 340px}
